@@ -13,6 +13,8 @@
     - открыть из git или скопировать и открыть на Google Drive в Colaboratory
     - модель siam_net.h5
 
+git clone https://github.com/mkorlyakova/test_pallet.git  
+
 
 
 
